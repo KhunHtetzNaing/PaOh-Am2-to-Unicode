@@ -1,3 +1,2 @@
-# PaOh-Zawgyi-Unicode-Converter
-Simple PaOh Zawgyi <=> Unicode Convter
-Based on Rabbit Converter
+# PaOh-Am2-to-Unicode-Converter
+PaO AM2 => Unicode
